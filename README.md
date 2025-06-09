@@ -2,7 +2,7 @@
 <h3 align="center"> Data Scientist |  ML Enthusiast | 🛠 Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=I+turn+data+into+decisions+%26+ideas+into+impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=false&width=650&lines=I+turn+data+into+decisions+%26+ideas+into+impact." alt="Typing SVG" />
 </p>
 
 ---
