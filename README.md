@@ -1,17 +1,27 @@
+<h1 align="center">Hey there 👋, I'm Manav!</h1>
+<h3 align="center">🚀 Data Scientist | 🧠 ML Enthusiast | 🛠️ Builder</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=I+turn+data+into+decisions+%26+ideas+into+impact." alt="Typing SVG" />
+</p>
 
 ---
 
-### 📌 Steps to Use:
+### 🧠 About Me
 
-1. **Create a repository** named exactly `ManavTheGoat` (must match your username).
-2. **Add a `README.md`** file and paste the content above.
-3. **Customize** your LinkedIn, YouTube, or email links.
-4. Optionally, add your own `.gif`, `.png`, or SVG illustrations for extra flair!
+- 🎓 Final-year Data Science undergrad
+- 🔬 Working on cool ML projects like Urban Sound Classification & Audio Scene Detection
+- 💻 Interested in Deep Learning, Signal Processing, and Real-World AI Applications
+- 🧪 Passionate about turning research into practical tools
+- ✍️ Currently building my YouTube channel around **Passive Income + Animation!**
 
-Let me know if you'd like to add dynamic features like:
-- Visitors counter  
-- Latest blog or video embeds  
-- Contribution graph calendar  
-- Badge for GATE/GRE/YouTube journey
+---
 
-Want a **dark-themed version** or animated icons? I can make that too!
+### 🛠️ Tech Stack
+
+```python
+Languages       = ["Python", "SQL", "HTML/CSS", "JavaScript (Basic)"]
+ML/AI           = ["TensorFlow", "PyTorch", "Scikit-learn", "Librosa", "YAMNet"]
+Data Science    = ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"]
+Audio Analysis  = ["Librosa", "Soundfile", "OpenL3", "Audacity"]
+Dev Tools       = ["Git", "GitHub", "Jupyter", "VS Code", "Linux"]
