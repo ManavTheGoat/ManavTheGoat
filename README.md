@@ -40,9 +40,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-|  **Urban Sound Classifier** | Real-time audio classification using YAMNet + LSTM | TensorFlow, Librosa, UrbanSound8K |
 |  **PCA Face Recognition** | Lightweight face recognition with Eigenfaces | OpenCV, NumPy, Scikit-learn |
-|  **Monke & Hooman YouTube Scripts** | Fun passive income animations with caveman logic | Storyboarding, Minimal Art, Monke Humor |
+
 
 ⭐ Check out my pinned repos below or navigate via [github.com/ManavTheGoat](https://github.com/ManavTheGoat)
 
