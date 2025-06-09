@@ -1,5 +1,5 @@
-<h1 align="center">Hey there 👋, I'm Manav!</h1>
-<h3 align="center">🚀 Data Scientist | 🧠 ML Enthusiast | 🛠️ Builder</h3>
+<h1 align="center">Hola Amigo , I'm Manav!</h1>
+<h3 align="center"> Data Scientist |  ML Enthusiast | 🛠 Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=I+turn+data+into+decisions+%26+ideas+into+impact." alt="Typing SVG" />
@@ -7,16 +7,16 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
-- 🎓 Final-year Data Science undergrad
-- 🔬 Working on cool ML projects like Urban Sound Classification & Audio Scene Detection
-- 💻 Interested in Deep Learning, Signal Processing, and Real-World AI Applications
-- 🧪 Passionate about turning research into practical tools
-- ✍️ Currently building my YouTube channel around **Passive Income + Animation!**
+-  Final-year Data Science undergrad
+-  Working on cool ML projects like Urban Sound Classification & Audio Scene Detection
+-  Interested in Deep Learning, Signal Processing, and Real-World AI Applications
+-  Passionate about turning research into practical tools
+-  Currently building my YouTube channel around **Passive Income + Animation!**
 
 ---
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ManavTheGoat&show_icons=true&theme=radical" width="47%" />
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠 Tech Stack
 
 | Category        | Tools & Technologies |
 |----------------|----------------------|
@@ -36,19 +36,19 @@
 | **Dev Tools**   | `Git`, `GitHub`, `Jupyter`, `VS Code`, `Linux` |
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔊 **Urban Sound Classifier** | Real-time audio classification using YAMNet + LSTM | TensorFlow, Librosa, UrbanSound8K |
-| 👤 **PCA Face Recognition** | Lightweight face recognition with Eigenfaces | OpenCV, NumPy, Scikit-learn |
-| 🐒 **Monke & Hooman YouTube Scripts** | Fun passive income animations with caveman logic | Storyboarding, Minimal Art, Monke Humor |
+|  **Urban Sound Classifier** | Real-time audio classification using YAMNet + LSTM | TensorFlow, Librosa, UrbanSound8K |
+|  **PCA Face Recognition** | Lightweight face recognition with Eigenfaces | OpenCV, NumPy, Scikit-learn |
+|  **Monke & Hooman YouTube Scripts** | Fun passive income animations with caveman logic | Storyboarding, Minimal Art, Monke Humor |
 
 ⭐ Check out my pinned repos below or navigate via [github.com/ManavTheGoat](https://github.com/ManavTheGoat)
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/singh-manavpreet" target="_blank">
