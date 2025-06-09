@@ -11,8 +11,8 @@
 
 -  Final-year Data Science undergrad
 -  Working on cool ML projects like Urban Sound Classification & Audio Scene Detection
--  Interested in Deep Learning, Signal Processing, and Real-World AI Applications
--  Passionate about turning research into practical tools
+-  Interested in Deep Learning, Mathematics, and Real-World AI Applications
+-  Passionate about Researching and Discovering things.
 -  Currently building my YouTube channel around **Passive Income + Animation!**
 
 ---
